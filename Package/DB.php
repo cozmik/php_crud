@@ -3,7 +3,7 @@ require_once ('./config/config.php');
 
 /**
  * Perform basic database operations insert, update, delete, select, count
- @todo Add more useful functions
+ @todo Add more functions
  */
 class DB {
     private static $dsn = DSN;
